@@ -1,0 +1,21 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Mr_Spade的个人网页",
+  "main": "index.js",
+  "repository": "",
+  "author": "Mr_Spade",
+  "license": "MIT",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-blog": "^1.9.4",
+    "jquery": "^3.6.3",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-mathjax3": "^4.3.2",
+    "moment": "^2.29.4",
+    "vuepress": "^1.9.9"
+  }
+}
