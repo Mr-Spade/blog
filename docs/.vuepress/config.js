@@ -71,6 +71,15 @@ module.exports = {
                             lengthPerPage: 999,
                         },
                     },
+                    {
+                        id: '生活·空想白昼',
+                        dirname: 'life/fantasy',
+                        path: '/life/fantasy/',
+                        itemPermalink: '/life/fantasy/:slug',
+                        pagination: {
+                            lengthPerPage: 999,
+                        },
+                    },
                 ],
             },
         ],

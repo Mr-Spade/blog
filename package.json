@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": "",
   "author": "Mr_Spade",
-  "license": "MIT",
+  "license": "CC-BY-NC-ND",
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
